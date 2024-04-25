@@ -1,0 +1,18 @@
+.container {
+    height: 1000px;
+    width: 100px;
+    background: red;
+}
+
+.maintextdown {
+    position: absolute;
+    margin-top: 26%;
+    margin-left: 10%;
+    font-size:3em;
+}
+h3.maintextdown{
+    position: absolute;
+    margin-top: 30%;
+    margin-left: 10%;
+    font-size:2em;
+}
